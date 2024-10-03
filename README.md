@@ -89,4 +89,4 @@ The project will be developed using **React** for the frontend with features imp
 - **Technical Overview**: Summarizes the key technologies, libraries, and tools used.
 - **Hands-On Labs Implemented**: Mention which specific labs are connected to your development work.
 - **Project Setup and Deployment**: Provides installation steps and deployment options.
-- **Future Enhancements**: Highlights features to be implemented in the next phases.
+- **Future Enhancements**: Highlights features to be implemented in the next phases..
